@@ -20,3 +20,4 @@
     end
   end 
   current_key_assoc_w_min_val
+end
